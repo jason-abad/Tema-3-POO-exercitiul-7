@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1558366432 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\src\persoane.cpp
+	"persoane.h"
+
+1558378399 d:\codeblocks\sem 2\poo lab 3 (7) v2\include\persoane.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<stdlib.h>
+
+1558366521 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\src\actor.cpp
+	"actor.h"
+
+1558378399 d:\codeblocks\sem 2\poo lab 3 (7) v2\include\actor.h
+	<persoane.h>
+
+1558366527 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\src\regizor.cpp
+	"regizor.h"
+
+1558378400 d:\codeblocks\sem 2\poo lab 3 (7) v2\include\regizor.h
+	<persoane.h>
+
+1558366540 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<stdlib.h>
+	"persoane.h"
+	"regizor.h"
+	"actor.h"
+	"film.h"
+	"cinematograf.h"
+	"FirmaDistributie.h"
+
+1558366432 d:\codeblocks\sem 2\poo lab 3 (7) v2\fin.h
+
+1558378399 d:\codeblocks\sem 2\poo lab 3 (7) v2\include\film.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<stdlib.h>
+	"persoane.h"
+	"regizor.h"
+	"actor.h"
+
+1558366622 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\src\film.cpp
+	"film.h"
+
+1558364891 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\src\cinematograf.cpp
+	"cinematograf.h"
+
+1558378400 d:\codeblocks\sem 2\poo lab 3 (7) v2\include\cinematograf.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<stdlib.h>
+	"persoane.h"
+	"regizor.h"
+	"actor.h"
+	"film.h"
+
+1558365666 d:\codeblocks\sem 2\poo lab 3 (7) v2\include\firmadistributie.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<stdlib.h>
+	"persoane.h"
+	"regizor.h"
+	"actor.h"
+	"film.h"
+	"cinematograf.h"
+	"../fin.h"
+
+1558365671 source:d:\codeblocks\sem 2\poo lab 3 (7) v2\src\firmadistributie.cpp
+
